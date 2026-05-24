@@ -1,0 +1,14 @@
+/Users/chirilslb/IdeaProjects/TMPPPlab/backend/src/test/java/com/chiril/library/adapter/FileCatalogAdapterTest.java
+/Users/chirilslb/IdeaProjects/TMPPPlab/backend/src/test/java/com/chiril/library/adapter/FileLoanRepositoryAdapterTest.java
+/Users/chirilslb/IdeaProjects/TMPPPlab/backend/src/test/java/com/chiril/library/adapter/LibraryServiceAdapterIntegrationTest.java
+/Users/chirilslb/IdeaProjects/TMPPPlab/backend/src/test/java/com/chiril/library/command/LibraryCommandTest.java
+/Users/chirilslb/IdeaProjects/TMPPPlab/backend/src/test/java/com/chiril/library/domain/AuthorFlyweightFactoryTest.java
+/Users/chirilslb/IdeaProjects/TMPPPlab/backend/src/test/java/com/chiril/library/domain/LibraryItemGroupTest.java
+/Users/chirilslb/IdeaProjects/TMPPPlab/backend/src/test/java/com/chiril/library/facade/LibraryFacadeTest.java
+/Users/chirilslb/IdeaProjects/TMPPPlab/backend/src/test/java/com/chiril/library/factory/AbstractFactoryTest.java
+/Users/chirilslb/IdeaProjects/TMPPPlab/backend/src/test/java/com/chiril/library/factory/FactoryMethodTest.java
+/Users/chirilslb/IdeaProjects/TMPPPlab/backend/src/test/java/com/chiril/library/repo/proxy/AuditedLoanRepositoryProxyTest.java
+/Users/chirilslb/IdeaProjects/TMPPPlab/backend/src/test/java/com/chiril/library/service/LibraryServiceNotificationBridgeTest.java
+/Users/chirilslb/IdeaProjects/TMPPPlab/backend/src/test/java/com/chiril/library/service/LoanPolicyDecoratorTest.java
+/Users/chirilslb/IdeaProjects/TMPPPlab/backend/src/test/java/com/chiril/library/service/PenaltyObserverTest.java
+/Users/chirilslb/IdeaProjects/TMPPPlab/backend/src/test/java/com/chiril/library/service/PenaltyStrategyTest.java
